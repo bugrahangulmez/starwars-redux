@@ -2,4 +2,4 @@
 
 Mobil tasarım için eksikleri var masaüstünden bakınız 
 
-Projenin linki https://jade-dieffenbachia-38ee96.netlify.app/
+Projenin linki https://soft-sprite-428c83.netlify.app/
